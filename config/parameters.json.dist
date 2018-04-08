@@ -1,0 +1,5 @@
+{
+    "endpoint": "https://gitlab.com/",
+    "api_token": "",
+    "default_namespace": "gitlab"
+}

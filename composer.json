@@ -1,0 +1,13 @@
+{
+    "name": "leblanc-simon/gitlab-cli",
+    "autoload": {
+        "psr-4": {
+            "GitlabCli\\": "src/"
+        }
+    },
+    "require": {
+        "m4tthumphrey/php-gitlab-api": "^9.7",
+        "php-http/guzzle6-adapter": "^1.1",
+        "symfony/console": "^4.0"
+    }
+}
